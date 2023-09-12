@@ -1,0 +1,8 @@
+Cache - Used to store temporary files
+Clocking - measures how many cycles per second your CPU can handle (gigahertz)
+ALU - the part that carries out arithmetic and logic operations
+Busses - High speed internal connection?
+Pipelines - a set of data processing elements connected in series, where the output of one element is the input of the next one
+Graphics Processing Unit (GPU) - Used to accelerate graphics rendering
+Processor Cooling - Keeps the CPU cool
+Chipsets - basically the electronics on the motherboard that communicate with all the connected components
