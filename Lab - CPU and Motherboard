@@ -1,0 +1,36 @@
+Part 1
+
+The clock speed of this processor is somewhere between 1.11 GHz - 4.04 Ghz
+
+There are 3 caches. L1 Cache is 384 KB, L2 cache is 1.5 MB, and L3 cache is 12.0 MB
+
+
+The max amount of RAM this processor can take is 64 GB
+
+
+Part 2
+
+It takes 5 threads to reach 100% CPU utilization at 100% power
+
+Increasing the number of threads past 6 doesn’t increase the speed. Probably because the CPU is already maxed out
+
+The youtube video playing in the background added on an extra 10% to the CPU utilization
+
+
+Part 3
+
+Device: Phone 13
+Clock Speed: 2 GHz
+Cores: 6-core CPU
+Cache: somewhere around 32 MB (according to the Apple A15 System in the Iphone 13)
+
+Though the quality of both CPUs is similarly good, the quantity of each is higher in a desktop CPU. The modern Iphones, however, are much more powerful than the old PCs of the Apollo era
+
+https://en.wikipedia.org/wiki/Apple_A15#:~:text=iPhone%2013%20%26%2013%20Mini%20%E2%80%93%206,2.92%20GHz%20from%203.23%20GHz  
+
+
+Part 4
+
+Though it uses less cores and threads and whatnot, it seems to be more careful with the output of power it uses, having a minimum assured power of 12 W and a maximum assured power of 28 W and appears to focus more on overheating than the XEON does. If a tablet were to have a XEON CPU, it may overheat.
+
+The XEON CPU has more resources to it than the Celeron does because it has more than 4x the cores and more than 9x the amount of threads. It also has an average power output of around 185 W, as opposed to the average 15 W output of a Celeron
