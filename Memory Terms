@@ -1,0 +1,20 @@
+1. What is the purpose of “virtual memory”.
+      Improving system performance, multitasking and using large programs
+
+2. What is the “swap file”?
+	    Serves as additional memory to hold additional data
+
+3. What does it mean that some memory is “volatile” and some is “non-volatile”?
+	    Volatile memory is the type of memory in which data is lost as it is powered-off. Non-volatile memory is the type of memory in which data remains stored even if it is powered-off
+
+4. Is a 128GB USB storage device volatile memory or non-volatile memory? Why?
+	    Non-volatile; it doesn’t need power to keep stored data intact
+
+5. Is RAM volatile or non-volatile memory? Why?
+	    Volatile; it needs to be attached to a PC to have the power to store data and keep it intact
+
+6. What is the purpose of ECC modules?
+	    To eliminate data corruption
+
+7. What determines whether or not a motherboard supports faster memory chips?
+	    The type of CPU
